@@ -1,1 +1,1 @@
-- code tin học cấp 3
+- code tin học cho sách kết nối tri thức
